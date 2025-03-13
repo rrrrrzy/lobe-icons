@@ -29,6 +29,7 @@ import Jina from '@/Jina';
 import LmStudio from '@/LmStudio';
 import LobeHub from '@/LobeHub';
 import Minimax from '@/Minimax';
+import Maple from '@/Maple';
 import Mistral from '@/Mistral';
 import ModelScope from '@/ModelScope';
 import Moonshot from '@/Moonshot';
@@ -132,6 +133,7 @@ export const providerMappings: ProviderMapping[] = [
   { Icon: Novita, keywords: [ModelProvider.Novita] },
   { Icon: OpenAI, keywords: [ModelProvider.OpenAI] },
   { Icon: Ollama, combineMultiple: 1.16, keywords: [ModelProvider.Ollama] },
+  { Icon: Maple, combineMultiple: 1.16, keywords: [ModelProvider.Maple] },
   { Icon: Perplexity, keywords: [ModelProvider.Perplexity] },
   { Icon: Minimax, combineMultiple: 1.3, keywords: [ModelProvider.Minimax] },
   { Icon: Mistral, combineMultiple: 1.08, keywords: [ModelProvider.Mistral] },
