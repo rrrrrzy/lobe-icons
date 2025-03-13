@@ -16,8 +16,8 @@
     "paths": {
       "@@/*": [".dumi/tmp/*"],
       "@/*": ["src/*"],
-      "@lobehub/icons": ["src"],
-      "@lobehub/icons/*": ["src/*"]
+      "@rrrrrzy/icons": ["src"],
+      "@rrrrrzy/icons/*": ["src/*"]
     }
   },
   "include": ["src", "docs", "tests", ".dumirc.ts", ".fatherrc.ts"]
