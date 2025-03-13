@@ -52,7 +52,6 @@ export {
   default as GithubCopilot,
   type CompoundedIcon as GithubCopilotProps,
 } from './GithubCopilot';
-export { default as Maple, type CompoundedIcon as MapleProps } from './Maple';
 export { default as Glif, type CompoundedIcon as GlifProps } from './Glif';
 export { default as Google, type CompoundedIcon as GoogleProps } from './Google';
 export { default as Grok, type CompoundedIcon as GrokProps } from './Grok';
@@ -78,6 +77,7 @@ export { default as LmStudio, type CompoundedIcon as LmStudioProps } from './LmS
 export { default as LobeHub, type CompoundedIcon as LobeHubProps } from './LobeHub';
 export { default as Luma, type CompoundedIcon as LumaProps } from './Luma';
 export { default as Magic, type CompoundedIcon as MagicProps } from './Magic';
+export { default as Maple, type CompoundedIcon as MapleProps } from './Maple';
 export { default as Meta, type CompoundedIcon as MetaProps } from './Meta';
 export { default as Microsoft, type CompoundedIcon as MicrosoftProps } from './Microsoft';
 export { default as Midjourney, type CompoundedIcon as MidjourneyProps } from './Midjourney';
